@@ -1,0 +1,18 @@
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\bin\Debug\Server.exe.config
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\bin\Debug\Server.exe
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\bin\Debug\Server.pdb
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.Server.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.exe
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.pdb
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Projects\ZIProjekat\Server\bin\Debug\Server.exe.config
+D:\Projects\ZIProjekat\Server\bin\Debug\Server.exe
+D:\Projects\ZIProjekat\Server\bin\Debug\Server.pdb
+D:\Projects\ZIProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Projects\ZIProjekat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Projects\ZIProjekat\Server\obj\Debug\Server.Server.resources
+D:\Projects\ZIProjekat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Projects\ZIProjekat\Server\obj\Debug\Server.exe
+D:\Projects\ZIProjekat\Server\obj\Debug\Server.pdb

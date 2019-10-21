@@ -1,0 +1,37 @@
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.exe
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.exe.config
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.CodebookForm.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.KnapsackForm.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.OdabirAlgoritma.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.Properties.Resources.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csproj.GenerateResource.Cache
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.exe
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.pdb
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.pdb
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csprojResolveAssemblyReference.cache
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.CodebookRecnik.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.RC6Form.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.TEAXTEAForm.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\bin\Debug\itextsharp.dll
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\bin\Debug\itextsharp.xtra.dll
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\bin\Debug\itextsharp.xml
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csproj.ResolveComReference.cache
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.Client.resources
+D:\Projects\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.exe
+D:\Projects\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.exe.config
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csproj.ResolveComReference.cache
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.Client.resources
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.CodebookForm.resources
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.CodebookRecnik.resources
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.KnapsackForm.resources
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.OdabirAlgoritma.resources
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.Properties.Resources.resources
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.RC6Form.resources
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.TEAXTEAForm.resources
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csproj.GenerateResource.cache
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csproj.CopyComplete
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.exe
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.pdb
+D:\Projects\ZIProjekat\ZIProjekat\obj\Debug\ZIProjekat.csprojAssemblyReference.cache
+D:\Projects\ZIProjekat\ZIProjekat\bin\Debug\ZIProjekat.pdb

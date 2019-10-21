@@ -1,0 +1,4 @@
+Kriptovano knapsackom
+latlon
+bin
+66 40 117 142 66 40 120 14 66 40 122 110 66 40 124 238 66 40 
